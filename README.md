@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **onadroj/onadroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###👋 Hi there
+I'm Jordano, a passionate software developer and technology enthusiast. With over 20 years of experience in the field, I have worked on many exciting projects exploring different technologies, operating systems and languages.
+My focus is ERP Protheus, the ADVPL language but I have already developed it in PHP, I am passionate about Linux!!!
+
+###🌐 Socials:
+Instagram LinkedIn TikTok Twitter
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+###💻 Tech Stack
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
