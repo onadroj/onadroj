@@ -17,7 +17,7 @@ I'm Jordano, a passionate software developer and technology enthusiast. With ove
 My focus is ERP Protheus, the ADVPL language but I have already developed it in PHP, I am passionate about Linux!!!
 
 ###🌐 Socials:
-Instagram LinkedIn TikTok Twitter
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
