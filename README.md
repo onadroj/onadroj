@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###👋 Hi there
+### 👋 Hi there
 I'm Jordano, a passionate software developer and technology enthusiast. With over 20 years of experience in the field, I have worked on many exciting projects exploring different technologies, operating systems and languages.
 My focus is ERP Protheus, the ADVPL language but I have already developed it in PHP, I am passionate about Linux!!!
 
-###🌐 Socials:
+### 🌐 Socials:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
-###💻 Tech Stack
+### 💻 Tech Stack
 
 
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
@@ -42,3 +42,6 @@ My focus is ERP Protheus, the ADVPL language but I have already developed it in 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
+[(Back to top)](#table-of-contents)
